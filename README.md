@@ -3,7 +3,7 @@
 This repository contains the implementation for CENG 463 - Introduction to NLP Assignment 2. The objective of this assignment is to identify political ideology and orientation in parliamentary debates using multilingual language models.
 
 Project Overview
-In this assignment, we focus on analyzing parliamentary debates in different languages and classifying the political orientation (left, center, or right) of the speakers. The task involves leveraging pretrained language models for multilingual text classification.
+In this assignment, we focus on analyzing parliamentary debates in different languages and classifying the political orientation (left or right) of the speakers. The task involves leveraging pretrained language models for multilingual text classification.
 
 Tasks
 Task 1: Identify the political orientation of speakers in Turkish parliamentary debates.
